@@ -1,0 +1,24 @@
+{
+  "name": "auto-api",
+  "version": "0.1.0",
+  "description": "Create a REST API in Node from JSON schema files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dustinmartin/auto-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Dustin Martin",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "b50c7991eaa9fbe3650a78e38981eeeba8b2aa87",
+  "bugs": {
+    "url": "https://github.com/dustinmartin/auto-api/issues"
+  }
+}
