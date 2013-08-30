@@ -20,5 +20,9 @@
   "gitHead": "b50c7991eaa9fbe3650a78e38981eeeba8b2aa87",
   "bugs": {
     "url": "https://github.com/dustinmartin/auto-api/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.0",
+    "chai": "~1.7.2"
   }
 }
